@@ -1,13 +1,7 @@
-# Embedded C Programming with Continuous Integration and Code Quality
-
-## Seat Temperature monitor using Atmega328
-
-### CI and Code Quality
-
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/28-shravya/Emb-C-Project/actions/workflows/compile.yml/badge.svg)](https://github.com/28-shravya/Emb-C-Project/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/28-shravya/Emb-C-Project/actions/workflows/codequality.yml/badge.svg)](https://github.com/28-shravya/Emb-C-Project/actions/workflows/codequality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5e80fe936c6742deb825f7ef962298cd)](https://www.codacy.com/gh/28-shravya/Emb-C-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=28-shravya/Emb-C-Project&amp;utm_campaign=Badge_Grade)|
-
-![final1](https://user-images.githubusercontent.com/66370715/116511947-e00eac80-a8e4-11eb-8e33-6be40319bd67.png)
-
-![final2](https://user-images.githubusercontent.com/66370715/116650262-7f43aa80-a99e-11eb-9d9e-5fde4aedaf6d.png)
+![image](https://user-images.githubusercontent.com/31066215/116732077-36284080-aa08-11eb-8df0-a1ce52c62a63.png)
+![image](https://user-images.githubusercontent.com/31066215/116732101-417b6c00-aa08-11eb-8585-359faec2b4d8.png)
+![image](https://user-images.githubusercontent.com/31066215/116732125-4b04d400-aa08-11eb-84c1-7f1c123aff6e.png)
+![image](https://user-images.githubusercontent.com/31066215/116732155-5526d280-aa08-11eb-909d-4050d84bd94d.png)
+![image](https://user-images.githubusercontent.com/31066215/116732327-6bcd2980-aa08-11eb-9822-d56ee603d601.png)
+![image](https://user-images.githubusercontent.com/31066215/116732450-725ba100-aa08-11eb-98c1-a9c928518347.png)
+![image](https://user-images.githubusercontent.com/31066215/116732473-7982af00-aa08-11eb-9ef1-e810eed69346.png)
